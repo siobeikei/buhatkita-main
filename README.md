@@ -1,2 +1,2 @@
 # buhatkita-main
-A simple carry script for FiveM
+A simple player carry script for FiveM
